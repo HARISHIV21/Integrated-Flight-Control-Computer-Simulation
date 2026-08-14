@@ -246,10 +246,6 @@ Displayed parameters include:
 * Warning Status
 * Control Commands
 
-<p align="center">
-  <img src="./Images/CockpitDashboard.png" width="900" alt="IFCC Cockpit Dashboard">
-</p>
-
 ---
 
 ## Fault Injection
@@ -398,28 +394,6 @@ plot_results
 ```
 
 The generated results can be stored in the `Results/` directory.
-
----
-
-## Example Results
-
-### Normal Flight
-
-<p align="center">
-  <img src="./Results/NormalFlight.png" width="850" alt="Normal Flight Simulation">
-</p>
-
-### Fault Injection
-
-<p align="center">
-  <img src="./Results/FaultInjection.png" width="850" alt="Fault Injection Simulation">
-</p>
-
-### RMSE Analysis
-
-<p align="center">
-  <img src="./Results/RMSE.png" width="850" alt="RMSE Analysis">
-</p>
 
 ---
 
